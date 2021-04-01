@@ -7,7 +7,7 @@ import (
 
 	"github.com/kavu/go-resque"
 	"github.com/kavu/go-resque/driver"
-	"github.com/simonz05/godis/redis"
+	"insmo.com/godis/redis"
 )
 
 func init() {

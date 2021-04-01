@@ -1,0 +1,11 @@
+github.com/fiorix/go-redis v0.0.0-20160104010333-d987058b55eb h1:EI7vB0IrkvbLmz1uveOxlQYD6kxmnoLWPpkuCpPkS68=
+github.com/fiorix/go-redis v0.0.0-20160104010333-d987058b55eb/go.mod h1:THDmknDNeEi7Mcc80Ehv21Y5+kficBbYDHIjfyTYUq4=
+github.com/garyburd/redigo v1.6.2 h1:yE/pwKCrbLpLpQICzYTeZ7JsTA/C53wFTJHaEtRqniM=
+github.com/garyburd/redigo v1.6.2/go.mod h1:NR3MbYisc3/PwhQ00EMzDiPmrwpPxAn5GI05/YaO1SY=
+github.com/hoisie/redis v0.0.0-20160730154456-b5c6e81454e0 h1:mjZV3MTu2A5gwfT5G9IIiLGdwZNciyVq5qqnmJJZ2JI=
+github.com/hoisie/redis v0.0.0-20160730154456-b5c6e81454e0/go.mod h1:pMYMxVaKJqCDC1JUg/XbPJ4/fSazB25zORpFzqsIGIc=
+github.com/kavu/go-resque v1.0.0 h1:PO+pTK2C1EnltOxdjaHyvnqP0WW12wH3HMz7ccDqJg4=
+github.com/kavu/go-resque v1.0.0/go.mod h1:xTeRhfapWSVqr0pqVMIYUfrTs4ejOBZjCqNtBl3dm3w=
+insmo.com/exp-godis v0.0.0-20120506072514-cab1865437fd/go.mod h1:iF4RHAkPJDhoxY0vLCEFbina2WTlbcV6dx07Pxk+C0I=
+insmo.com/godis v0.0.0-20200217201539-65815d9d6d4a h1:yIUZvlExbsQ+A2eyhMUgeB5HSOjA1lPcO5I6+4dFkZs=
+insmo.com/godis v0.0.0-20200217201539-65815d9d6d4a/go.mod h1:HJhl1G5mQIMqmFgVoDgYPMfCbjTnq5sQBIqQViR8llo=
